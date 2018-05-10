@@ -1,0 +1,34 @@
+{
+    "critiques": {
+        "1800": {
+            "rubric_items": {
+                "10733": {
+                    "observation": "Correct! (Note: this rubric item was graded automatically.)",
+                    "result": "passed"
+                },
+                "10732": {
+                    "observation": "Correct! (Note: this rubric item was graded automatically.)",
+                    "result": "passed"
+                }
+            }
+        }
+    },
+    "tests": [
+        {
+            "description": "1. Test planning graph heuristic implementations",
+            "result": ".",
+            "message": "",
+            "traceback": "",
+            "advice": "",
+            "rubric_item_id": "10733"
+        },
+        {
+            "description": "2. Test planning graph mutexes",
+            "result": ".",
+            "message": "",
+            "traceback": "",
+            "advice": "",
+            "rubric_item_id": "10732"
+        }
+    ]
+}
